@@ -28,4 +28,4 @@ Sticker pack file is simply a zip file with one json and several sticker images 
 It follows the WhatsApp official "assets" folder format.:
 https://github.com/WhatsApp/stickers/tree/master/Android/app/src/main/assets
 
-For an example, refer to [Animals.stickerpack](Animals.stickerpack).
+For an example, refer to [Animals.stickerpack](Animals.stickerpack). Just rename it to ".zip" and extract it.
