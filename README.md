@@ -29,3 +29,8 @@ It follows the WhatsApp official "assets" folder format.:
 https://github.com/WhatsApp/stickers/tree/master/Android/app/src/main/assets
 
 For an example, refer to [Animals.stickerpack](Animals.stickerpack). Just rename it to ".zip" and extract it.
+
+Quick Notes:
+- Due to restrictions of WhatsApp, each sticker pack must have 3-30 stickers.
+- Due to restrictions of WhatsApp, the dimention of each sticker must be in webp format and in 512x512 pixels.
+- Each ".stickerpack" file can contain multiple sticker packs.
