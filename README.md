@@ -2,19 +2,25 @@
 StickerApp is an app that let you load sticker packs to WhatsApp.
 http://play.google.com/store/apps/details?id=com.kanelai.stickerapp
 
-Recipes (all without downloading separate apps for each sticker set):
+Recipes:
 
 ## Recipe ONE: Export stickers packs from Telegram and import to WhatsApp
-1. Go to Telegram and talk to the @ExportStickerPack bot (https://telegram.me/ExportStickerPackBot).
-2. Send it any sticker from a Telegram sticker set.
+1. Go to Telegram and talk to the @StickerAppBot bot (https://telegram.me/StickerAppBot).
+2. Send it any Telegram sticker.
 3. It returns you a sticker pack file.
 4. Open it with StickerApp.
 
-## Recipe TWO: Create your own sticker packs using Telegram, and use them in both Telegram and WhatsApp
+## Recipe TWO: Export stickers packs from LINE and import to WhatsApp
+1. Go to Telegram and talk to the @StickerAppBot bot (https://telegram.me/StickerAppBot).
+2. Send it any LINE sticker store URL (e.g. https://store.line.me/stickershop/product/13321/en).
+3. It returns you a sticker pack file.
+4. Open it with StickerApp.
+
+## Recipe THREE: Create your own sticker packs using Telegram, and use them in both Telegram and WhatsApp
 1. Go to Telegram and use the official @Stickers bot to create your own sticker set.
 2. Follow Recipe ONE to have the stickers available in WhatsApp as well.
 
-## Recipe THREE: Hand-make your own sticker pack files and import to WhatsApp
+## Recipe FOUR: Hand-make your own sticker pack files and import to WhatsApp
 1. Create your own ".stickerpack" file
 2. Open it with StickerApp
 
